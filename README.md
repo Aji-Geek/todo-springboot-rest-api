@@ -61,3 +61,8 @@ http://localhost:8087/todoapplication/swagger-ui/index.html#/
 Note: Schema for todo table is present in project at path
 src/main/resources/scripts
 
+**Test Cases for TodoService**<br>
+<img width="1471" alt="image" src="https://github.com/Aji-Geek/todo-springboot-rest-api/assets/54324401/f8f8a79f-e83c-49a4-8873-e4c3ddad8c21">
+
+
+
